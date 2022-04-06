@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T07:53:28.361Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="POIKeSyvLshuh0hYlSTM" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-06T07:55:12.472Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="pglGRKhK4rzoztYa3-3T" version="17.4.0" type="github">
   <diagram id="atjPza35tR8Q2ZRvLUmr" name="Page-1">
     <mxGraphModel dx="496" dy="324" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,11 +43,11 @@
         </mxCell>
         <mxCell id="vF46WPgjCu5RCyMJPEAj-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vF46WPgjCu5RCyMJPEAj-6" target="vF46WPgjCu5RCyMJPEAj-20">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="320" as="targetPoint" />
+            <mxPoint x="590" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vF46WPgjCu5RCyMJPEAj-6" value="Right motor" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vF46WPgjCu5RCyMJPEAj-10" value="Vooruit&lt;br&gt;BIN2" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="320" width="80" height="60" as="geometry" />
@@ -56,10 +56,10 @@
           <mxGeometry x="334" y="320" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vF46WPgjCu5RCyMJPEAj-17" value="Vooruit&lt;br&gt;BIN3" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="320" width="80" height="60" as="geometry" />
+          <mxGeometry x="450" y="320" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vF46WPgjCu5RCyMJPEAj-20" value="Achteruit&lt;br&gt;BIN4" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="320" width="80" height="60" as="geometry" />
+          <mxGeometry x="570" y="320" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
